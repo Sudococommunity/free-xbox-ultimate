@@ -1,4 +1,4 @@
-# free-xboxpass-ultimate
+# free-xboxgamepass-ultimate
 hey there if anyone wants free xbox ultimate subscription  (it is shared account ) just login on microsoft store  with credential given in the file 
 i am giving this for free with no loss if you want it you can have it 
 you have to remove ###23#...##### from the email , i added those for protecting it from detection of microsoft outlook 
